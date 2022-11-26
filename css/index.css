@@ -1,0 +1,52 @@
+﻿* {
+    margin:0;
+    padding:0;
+}
+
+ul.header {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FEFEFE;
+}
+
+li.header {
+    float: left;
+}
+
+a.header {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 20px 22px;
+    text-decoration: none;
+}
+
+a.header:hover {
+    background-color: #808080;
+}
+
+div.emotion {
+    margin: 0px;
+    background-color: #FFA500;
+    padding:6%;
+}
+
+p.emotion {
+    text-align: center;
+    font-size:50px;
+}
+
+p.Projectitle,p.News {
+    text-align:center;
+    padding:3%;
+    font-size:25px;
+    text-decoration:underline;
+}
+
+p.tips {
+    text-align: center;
+    padding: 0px;
+    font-size: 25px;
+}
